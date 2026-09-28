@@ -1,2 +1,1 @@
-# thesis_impl
-Thesis implementation
+# Thesis Implementation
